@@ -2,13 +2,12 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor de software com experiencia em back-end, front-end e mobile. Tenho um pouco de vivencia em arquitetura, testes e documentação de software.</p>
+<p align="left">Sou um desenvolvedor de software com vivência em back-end, front-end e mobile, arquitetura, testes e documentação de software.</p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jboffog&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jboffog&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jboffog&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
