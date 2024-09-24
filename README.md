@@ -7,18 +7,18 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jboffog&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://www.linkedin.com/in/julioboffo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:julioboffo@yahoo.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jboffog&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
